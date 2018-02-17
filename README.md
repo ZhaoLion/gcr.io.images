@@ -2,7 +2,7 @@
 gcr.io docker images
 
 ## etcd-amd64
-- v3.1.11
+- v3.0.17
 
 ## k8s-dns-dnsmasq-nanny-amd64
 - v1.14.7
